@@ -26,4 +26,4 @@ Special kind of class methods, that are executed by php in "background"
 * ## (10) Abstract classes 
 
 
-[Youtube Link](https://www.youtube.com/watch?v=NyRWaQo1pZo) (1:05:00)
+[Youtube Link](https://www.youtube.com/watch?v=NyRWaQo1pZo) (1:32:00)

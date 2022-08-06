@@ -16,6 +16,14 @@ The functionalites are defined in one place and not in multiple spaces. Function
 * ## (7) Abstraction
 The process of hiding the internal data and implementation from the outside world
 * ## (8) Properties
+* ## (9) Magic methods
+    * __construct
+    * __destrict
+    * __get
+    * __toString<br>
+
+Special kind of class methods, that are executed by php in "background"
+* ## (10) Abstract classes 
 
 
-[Youtube Link](https://www.youtube.com/watch?v=NyRWaQo1pZo)
+[Youtube Link](https://www.youtube.com/watch?v=NyRWaQo1pZo) (1:05:00)

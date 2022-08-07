@@ -10,10 +10,14 @@
     <?php
     
     #require 'dataModel10.php';
-    require 'product10.php';
+    #require 'product10.php';
+    require 'user10.php';
 
-    $product = new Product();
-    $product->save();
+    $user = new User();
+    $user->save();
+
+    #$product = new Product();
+    #$product->save();
 
     #$dataModel = new DataModel();
     #$dataModel->save();

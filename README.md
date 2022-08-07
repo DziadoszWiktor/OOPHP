@@ -1,29 +1,32 @@
 # **OOPHP**
 PHP Object Oriented Programming rewiev
 
-* ## (1)Creating objects
-* ## (2)Defining methods
-* ## (3)Object interactions
-* ## (4)Constructors
-* ## (5)Visibility of properties
-    * Private (properties/methods) - can be accessed in $this class only, cannot be accessed in child classes, cannot be accessed off object instances.
-    * Protected - can be accessed in $this class and subclasses only, cannot be accessed off object instances everywhere.
-    * Public - can be accessed from everywhere.
-* ## (6)Encapsulation
+## 1. **Creating objects**
+## 2. **Defining methods**
+## 3. **Object interactions**
+## 4. **Constructors**
+## 5. **Visibility of properties**
+* Private (properties/methods) - can be accessed in $this class only, cannot be accessed in child classes, cannot be accessed off object instances.
+* Protected - can be accessed in $this class and subclasses only, cannot be accessed off object instances everywhere.
+* Public - can be accessed from everywhere.
+## 6. **Encapsulation**
 The functionalites are defined in one place and not in multiple spaces. Functionalities are defined in logical sapces, where the data is kept. Data inside our object con't be modified unexpectedly by external code in a completly differenr part of our program. 
     * setter
     * getter
-* ## (7) Abstraction
+## 7. **Abstraction**
 The process of hiding the internal data and implementation from the outside world
-* ## (8) Properties
-* ## (9) Magic methods
-    * __construct
-    * __destrict
-    * __get
-    * __toString<br>
+## 8. **Properties**
+## 9. **Magic methods**
+* __construct
+* __destrict
+* __get
+* __toString<br>
 
 Special kind of class methods, that are executed by php in "background"
-* ## (10) Abstract classes 
+## 10. **Abstract classes**
+## 11. **Abstract methods**
+## 12. **Interfaces** ...
+## 13. **Polymorphism** ...
+<br>
 
-
-[Youtube Link](https://www.youtube.com/watch?v=NyRWaQo1pZo) (1:32:00)
+[**Youtube Link** - Object Oriented PHP ](https://www.youtube.com/watch?v=NyRWaQo1pZo) (1:42:00)

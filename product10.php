@@ -6,6 +6,8 @@ class Product extends DataModel
 {
     private string $name;
     private float $price;
+    # Overrifing - create properties in subclasses
+    protected string $tableName = 'products';
 
     #setters
     public function setName(string $name) {
